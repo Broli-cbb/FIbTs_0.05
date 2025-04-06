@@ -1,0 +1,14 @@
+C:\Users\studentas\RiderProjects\FIbTs_0.05\FIbTs_0.05\bin\Debug\net9.0\FIbTs_0.05.exe
+C:\Users\studentas\RiderProjects\FIbTs_0.05\FIbTs_0.05\bin\Debug\net9.0\FIbTs_0.05.deps.json
+C:\Users\studentas\RiderProjects\FIbTs_0.05\FIbTs_0.05\bin\Debug\net9.0\FIbTs_0.05.runtimeconfig.json
+C:\Users\studentas\RiderProjects\FIbTs_0.05\FIbTs_0.05\bin\Debug\net9.0\FIbTs_0.05.dll
+C:\Users\studentas\RiderProjects\FIbTs_0.05\FIbTs_0.05\bin\Debug\net9.0\FIbTs_0.05.pdb
+C:\Users\studentas\RiderProjects\FIbTs_0.05\FIbTs_0.05\obj\Debug\net9.0\FIbTs_0.05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\studentas\RiderProjects\FIbTs_0.05\FIbTs_0.05\obj\Debug\net9.0\FIbTs_0.05.AssemblyInfoInputs.cache
+C:\Users\studentas\RiderProjects\FIbTs_0.05\FIbTs_0.05\obj\Debug\net9.0\FIbTs_0.05.AssemblyInfo.cs
+C:\Users\studentas\RiderProjects\FIbTs_0.05\FIbTs_0.05\obj\Debug\net9.0\FIbTs_0.05.csproj.CoreCompileInputs.cache
+C:\Users\studentas\RiderProjects\FIbTs_0.05\FIbTs_0.05\obj\Debug\net9.0\FIbTs_0.05.dll
+C:\Users\studentas\RiderProjects\FIbTs_0.05\FIbTs_0.05\obj\Debug\net9.0\refint\FIbTs_0.05.dll
+C:\Users\studentas\RiderProjects\FIbTs_0.05\FIbTs_0.05\obj\Debug\net9.0\FIbTs_0.05.pdb
+C:\Users\studentas\RiderProjects\FIbTs_0.05\FIbTs_0.05\obj\Debug\net9.0\FIbTs_0.05.genruntimeconfig.cache
+C:\Users\studentas\RiderProjects\FIbTs_0.05\FIbTs_0.05\obj\Debug\net9.0\ref\FIbTs_0.05.dll
